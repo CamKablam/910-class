@@ -1,11 +1,11 @@
 "910"
 {
 	"base"		"base"
-	"title"		"Nine Tenths"
+	"title"		"Nine Tenths (Classes)"
 	"category"	"pvp"
-	"maps"		"^910_|^nten_"
+	"maps"		"^910_class_|^nten_class_"
 	"menusystem"	"1"
-	"workshopid" "3014338850"
+//	"workshopid" "3014338850"
 
 	"settings"
 	{
