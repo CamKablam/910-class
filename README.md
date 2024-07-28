@@ -1,21 +1,19 @@
 # Nine Tenths
 
-The Nine Tenths Sourcemod, GMod 9 gamemode, and Fretta gamemode. Ported to GMod 13 in one package.
+Fork of Nine Tenths. In a similar vein to TF2, a class shooter with an intent on capturing a flag or point.
 
 ## Download
 
-[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3014338850)
+Not Available
 
 ## Contribution
 
-Same as MelonRacer, bug fixes and quality of life changes welcome.
-
-For serious gameplay changes, consider [making a mod using one of the many hooks available](https://github.com/figardo/910/blob/main/gamemode/hookexamples.lua).
+Bug fixes and quality of life changes welcome.
 
 ## Translation
 
-[![Crowdin](https://badges.crowdin.net/nine-tenths/localized.svg)](https://crowdin.com/project/nine-tenths)
+Not Available
 
 ## License
 
-Feel free to fork this gamemode and publish it by yourself, just give credit to Garry Newman and me.
+Forks are welcome, just give credit to Garry Newman, Figardo, and the members who work on this github project.
